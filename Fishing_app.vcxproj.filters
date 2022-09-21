@@ -15,39 +15,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\Spawning.h">
+    <ClInclude Include="FishInfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\FishInfo.h">
+    <ClInclude Include="FishingPlaces.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\FishingPlaces.h">
+    <ClInclude Include="Penalties.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\Penalties.h">
+    <ClInclude Include="PersonalTrophyFish.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\PersonalTrophyFish.h">
+    <ClInclude Include="Spawning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\FishInfo.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\FishingPlaces.cpp">
+    <ClCompile Include="FishInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\Main.cpp">
+    <ClCompile Include="FishingPlaces.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\Penalties.cpp">
+    <ClCompile Include="Penalties.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\PersonalTrophyFish.cpp">
+    <ClCompile Include="PersonalTrophyFish.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\old_shit\Mokslai\3 Kursas\Programavimas\Kursinis darbas\Kursinis darbas\Spawning.cpp">
+    <ClCompile Include="Spawning.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
